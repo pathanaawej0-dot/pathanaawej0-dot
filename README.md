@@ -146,8 +146,11 @@ const aawej = {
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pathanaawej0-dot&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=pathanaawej0-dot&theme=react&hide_border=true&background=0D1117&ring=00d9ff&fire=ffd700&currStreakLabel=00d9ff" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pathanaawej0-dot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=pathanaawej0-dot&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ffd700&currStreakLabel=00d9ff" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathanaawej0-dot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pathanaawej0-dot&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />dot&theme=react&hide_border=true&background=0D1117&ring=00d9ff&fire=ffd700&currStreakLabel=00d9ff" alt="GitHub Streak" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathanaawej0-dot&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pathanaawej0-dot&custom_title=Contribution%20Activity&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffd700&area=true&hide_border=true&area_color=00d9ff" alt="Contribution Graph" />
@@ -160,8 +163,7 @@ const aawej = {
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=pathanaawej0-dot&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=pathanaawej0-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -177,15 +179,9 @@ const aawej = {
 <a href="https://github.com/pathanaawej0-dot/Openclaw-2.0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathanaawej0-dot&repo=Openclaw-2.0&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/pathanaawej0-dot/Prompt-IQ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathanaawej0-dot&repo=Prompt-IQ&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
-</a>
 
 <a href="https://github.com/pathanaawej0-dot/reprompt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathanaawej0-dot&repo=reprompt&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/pathanaawej0-dot/leap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathanaawej0-dot&repo=leap&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
 </a>
 
 </div>
